@@ -1,0 +1,44 @@
+@font-face {
+  font-family: big_noodle_titling;
+  src: url(big_noodle_titling.ttf);
+}
+
+body {
+  color: #fff;
+}
+
+.para {
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 45px;
+}
+
+h1 {
+  font-family: big_noodle_titling;
+}
+
+.one {
+  background-color: #e28525;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+.two {
+  background-color: #25b3b9;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+.three {
+  background-color: #00403f;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+.bnt{
+   border-radius: 50px;
+   font-size: 10px;
+}
